@@ -24,4 +24,4 @@ Note that the Bubble series view type is associated with the [XY-Diagram](https:
 
 ## More Examples
 
-* [](https://github.com/DevExpress-Examples/how-to-keep-proportional-size-for-bubbles-corresponding-to-different-series-t180335)
+* [How to keep proportional size for Bubbles corresponding to different series](https://github.com/DevExpress-Examples/how-to-keep-proportional-size-for-bubbles-corresponding-to-different-series-t180335)
